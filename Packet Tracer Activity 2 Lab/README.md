@@ -1,31 +1,17 @@
 # Lab 3: Configure a Wireless Router and Clients
 
 ## Overview
-In this comprehensive hands-on lab, you will configure a complete home network setup in Cisco Packet Tracer. You'll connect network devices, configure a wireless router with security settings, and test connectivity.
+In this comprehensive hands-on lab, I will configure a complete home network setup in Cisco Packet Tracer. I'll connect network devices, configure a wireless router with security settings, and test connectivity.
 
 **Scenario:** Your friend Natsumi needs help setting up her home network to connect devices to the cable TV provider's internet service and configure a secure wireless network for her home.
 
 ---
 
-## 📺 YouTube Video Walkthrough
 
-**Watch the complete lesson here:**
-
-[![Cisco Packet Tracer Wireless Router Configuration](https://img.youtube.com/vi/6AhZafYA52E/0.jpg)](https://www.youtube.com/watch?v=6AhZafYA52E&t=60s)
-
-**[Cisco Packet Tracer Wireless Router Configuration - Full Tutorial](https://www.youtube.com/watch?v=6AhZafYA52E&t=60s)**
-
-This video provides a visual walkthrough of the entire lab, showing how to:
-- Connect all devices properly
-- Configure the router GUI
-- Set up wireless security
-- Test connectivity from all devices
-
----
 
 ## Objectives
 
-By completing this lab, you will be able to:
+By completing this lab, you I will be able to:
 
 ### Part 1: Connect the Devices
 - Connect coaxial cables from a cable splitter to appropriate devices
@@ -51,7 +37,7 @@ By completing this lab, you will be able to:
 
 Your friend Natsumi recently moved to a new home and needs help connecting her devices to the internet. The cable TV provider delivers both internet and video services to her home through a coaxial cable connection.
 
-You need to:
+I need to:
 1. **Connect the devices** using appropriate cable types
 2. **Configure the wireless router** to manage her home network
 3. **Set up security** to prevent unauthorized access
@@ -200,7 +186,7 @@ Router Ports:
 
 ---
 
-## Key Concepts Learned
+## Key Concepts I've Learned
 
 | Concept | Description |
 |---------|-------------|
