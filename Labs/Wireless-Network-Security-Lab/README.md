@@ -231,11 +231,19 @@ Router Ports:
 
 ---
 
-## YouTube Video Walkthrough
+## 📺 YouTube Video Walkthrough
 
-For a visual walkthrough of this lab, watch:
-- [Cisco Packet Tracer Wireless Router Configuration](https://www.youtube.com/results?search_query=Cisco+Packet+Tracer+Configure+Wireless+Router+Home+Network)
-- [Cisco Skills for All - Packet Tracer Labs](https://www.youtube.com/results?search_query=Cisco+Skills+for+All+Packet+Tracer+Wireless+Router)
+**Watch the complete lesson here:**
+
+[![Cisco Packet Tracer Wireless Router Configuration](https://img.youtube.com/vi/6AhZafYA52E/0.jpg)](https://www.youtube.com/watch?v=6AhZafYA52E&t=60s)
+
+**[Cisco Packet Tracer Wireless Router Configuration - Full Tutorial](https://www.youtube.com/watch?v=6AhZafYA52E&t=60s)**
+
+This video provides a visual walkthrough of the entire lab, showing how to:
+- Connect all devices properly
+- Configure the router GUI
+- Set up wireless security
+- Test connectivity from all devices
 
 ---
 
