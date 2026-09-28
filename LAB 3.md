@@ -398,8 +398,11 @@ Understanding normal Ethernet communication makes it easier to recognize unusual
 
 ## 📸 Evidence
 
-**Practical demonstration:**
-[▶️ Watch Lab 01 — Ethernet Communication and Packet Observation](https://www.youtube.com/watch?v=z6X-zTEoYvI)
+### 🎥 Practical Demonstration
+
+[![Lab 01 — Ethernet Communication and Packet Observation](https://img.youtube.com/vi/6AhZafYA52E/maxresdefault.jpg)](https://www.youtube.com/watch?v=6AhZafYA52E&t=835s)
+
+**▶️ Click the thumbnail to watch the practical demonstration.**
 
 The video demonstrates the Packet Tracer topology, communication test, Simulation Mode, and observed packet movement.
 
@@ -409,8 +412,6 @@ The video demonstrates the Packet Tracer topology, communication test, Simulatio
 enable
 show mac address-table
 ```
-
-
 ---
 
 # 📚 Key Lessons
