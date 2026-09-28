@@ -400,7 +400,7 @@ Understanding normal Ethernet communication makes it easier to recognize unusual
 
 ### 🎥 Practical Demonstration
 
-[![Lab 01 — Ethernet Communication and Packet Observation](https://img.youtube.com/vi/z6X-zTEoYvI/maxresdefault.jpg)](
+[![Lab 01](https://img.youtube.com/vi/z6X-zTEoYvI/maxresdefault.jpg)](https://www.youtube.com/watch?v=z6X-zTEoYvI)
 **▶️ Click the thumbnail to watch the practical demonstration.**
 
 The video demonstrates the Packet Tracer topology, communication test, Simulation Mode, and observed packet movement.
