@@ -1,4 +1,4 @@
-Lab 3: Configure a Wireless Router and Clients
+Lab 2: Configure a Wireless Router and Clients
 Overview
 In this comprehensive hands-on lab, I will configure a complete home network setup in Cisco Packet Tracer. I'll connect network devices, configure a wireless router with security settings, and test connectivity.
 
@@ -262,4 +262,4 @@ Lab completed as part of ongoing cybersecurity and networking education.
 Original lab from Cisco Skills for All - Packet Tracer Activities
 Documentation updated: 2026-09-26
 Click the link to view the full lab:  
-https://www.youtube.com/watch?v=6AhZafYA52E&t=835s
+[![Lab 01 — Ethernet Communication and Packet Observation](https://img.youtube.com/vi/6AhZafYA52E/maxresdefault.jpg)](https://www.youtube.com/watch?v=6AhZafYA52E&t=835s)
