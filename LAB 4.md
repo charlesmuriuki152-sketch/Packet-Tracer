@@ -311,17 +311,20 @@ Understanding MAC learning and forwarding is important for cybersecurity because
 ## Evidence
 
 The recorded Packet Tracer video documents the experiment, including the unknown-destination forwarding behavior and subsequent MAC learning.
-
-The `.pkt` file should also be retained so that the topology and experiment can be reopened and reproduced in Cisco Packet Tracer.
-
-## Conclusion
-
-This experiment demonstrated how a switch transitions from not knowing a destination's location to learning its MAC address and subsequently using that information for targeted forwarding. 
 ## Click the Thumbnail Below to View My YouTube Video
 
 [![Unknown Unicast Flooding & MAC Learning](https://img.youtube.com/vi/PuRQQB0d8tg/maxresdefault.jpg)](https://www.youtube.com/watch?v=PuRQQB0d8tg)
 
- 
+
+The `.pkt` file should also be retained so that the topology and experiment can be reopened and reproduced in Cisco Packet Tracer.
+## Packet Tracer File
+
+[Download Lab 4 Packet Tracer File](lab%204.pkt)
+
+## Conclusion
+
+This experiment demonstrated how a switch transitions from not knowing a destination's location to learning its MAC address and subsequently using that information for targeted forwarding. 
+
 The most important principle demonstrated was:
 
 ```text
