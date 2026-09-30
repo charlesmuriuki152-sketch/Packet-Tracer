@@ -90,12 +90,6 @@ Understanding network media helps cybersecurity engineers troubleshoot physical 
 ### Click the Thumbnail Below to View My YouTube Video
 
 [![Ethernet Cable Types — Straight-Through vs Crossover](https://img.youtube.com/vi/o6EhQyWjewc/maxresdefault.jpg)](https://www.youtube.com/watch?v=o6EhQyWjewc)
-```
-
-Replace `VIDEO_ID` with the ID of the uploaded video.
-
----
-
 ## Conclusion
 
 This lab demonstrated the practical behavior of **Copper Straight-Through and Copper Crossover cables** in Packet Tracer. Both cables successfully supported communication between the two PCs, demonstrating the effect of **Auto-MDI/MDIX** in modern Ethernet interfaces.
