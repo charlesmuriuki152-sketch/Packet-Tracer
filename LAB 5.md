@@ -65,7 +65,27 @@ The different cable colors represent the cable types and do not indicate a conne
 Both cable types successfully provided connectivity in this Packet Tracer experiment.
 
 ---
+## Challenge I Faced
 
+Troubleshooting — IP Address Mismatch
+
+During the initial connectivity test, PC1 was mistakenly configured with:
+
+198.168.10.20
+
+However, the ping command was directed to:
+
+ping 192.168.10.20
+
+The ping therefore failed because the configured destination IP did not match the IP being tested.
+
+After correcting PC1's address to:
+
+192.168.10.20
+
+the ping returned successful replies.
+
+Lesson: Always verify that the destination IP configured on a device matches the IP address being tested.
 ## Networking Concept
 
 Traditionally:
