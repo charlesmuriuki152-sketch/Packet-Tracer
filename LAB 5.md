@@ -89,8 +89,7 @@ Understanding network media helps cybersecurity engineers troubleshoot physical 
 
 ### Click the Thumbnail Below to View My YouTube Video
 
-```markdown
-[![Network Media Lab 01](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Ethernet Cable Types — Straight-Through vs Crossover](https://img.youtube.com/vi/o6EhQyWjewc/maxresdefault.jpg)](https://www.youtube.com/watch?v=o6EhQyWjewc)
 ```
 
 Replace `VIDEO_ID` with the ID of the uploaded video.
