@@ -104,6 +104,9 @@ However, devices supporting **Auto-MDI/MDIX** can automatically adapt to the cab
 Understanding network media helps cybersecurity engineers troubleshoot physical connectivity and understand the infrastructure over which security monitoring and network traffic analysis take place.
 
 ---
+## Packet Tracer File
+
+[Open Lab 01 Packet Tracer File](lab%205.pkt)
 
 ## Video Evidence
 
