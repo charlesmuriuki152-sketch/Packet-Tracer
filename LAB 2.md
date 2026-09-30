@@ -261,5 +261,5 @@ Concepts Covered: 12+ networking fundamentals
 Lab completed as part of ongoing cybersecurity and networking education.
 Original lab from Cisco Skills for All - Packet Tracer Activities
 Documentation updated: 2026-09-26
-Click the link to view the full lab:  
+## Click the thumbnail below to view my lab on my youtube channel 
 [![Lab 01 — Ethernet Communication and Packet Observation](https://img.youtube.com/vi/6AhZafYA52E/maxresdefault.jpg)](https://www.youtube.com/watch?v=6AhZafYA52E&t=835s)
