@@ -57,6 +57,17 @@ Clear My Responses
 
 ## I'M PROVIDED WITH THIS PACKET TRACER FILE
 
+## Packet Tracer Activity
+
+### Connect to a Web Server
+
+Cisco Packet Tracer activity focused on connecting a client to a web server and verifying HTTP connectivity.
+
+**Activity File:**  
+[Open `Connect to a Web Server.pka`](./Connect%20to%20a%20Web%20Server.pka)
+
+
+
 
 
 
