@@ -326,8 +326,9 @@ The lab evidence includes:
 * Port-security verification
 
 ## Video Demonstration
+Click the thumnail below to view the lab on my youtube channnel
 
-[Watch the Access Layer VLAN and Port Security Lab](https://www.youtube.com/watch?v=tlJIdR5ZFN4)
+[![Access Layer — VLAN Segmentation and Port Security](https://img.youtube.com/vi/tlJIdR5ZFN4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tlJIdR5ZFN4)
 
 ---
 
