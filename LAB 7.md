@@ -66,6 +66,12 @@ Cisco Packet Tracer activity focused on connecting a client to a web server and 
 **Activity File:**  
 [Open `Connect to a Web Server.pka`](./Connect%20to%20a%20Web%20Server.pka)
 
+How to view the above file:
+ a) Click the link,you will be redirected to the file here on my Github account.
+ b) Click view raw, the file will be downloaded automatically.
+ c)Assuming you already have packet tracer app for pc, if not download from cisco, click open file inside your browser.
+ d)Cisco Packet tracer app will open automatically with the file visible in it.
+
 
 
 
