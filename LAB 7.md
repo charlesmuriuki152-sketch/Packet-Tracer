@@ -72,6 +72,22 @@ How to view the above file:
  c)Assuming you already have packet tracer app for pc, if not download from cisco, click open file inside your browser.
  d)Cisco Packet tracer app will open automatically with the file visible in it.
 
+ ## These screenshots are prove for my success in completing the lab
+
+
+ <img width="1920" height="1200" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/fe0b33d5-8d27-49ea-b745-caae743f61a7" />
+
+
+ <img width="1920" height="1200" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/e6736b12-835c-4271-ad52-8a965b6e3fd5" />
+
+ <img width="1920" height="1200" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/78170ffe-b590-4bd7-bd61-05234d999824" />
+
+
+ <img width="1920" height="1200" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/9a07da1e-3348-4a60-a119-320b6c042181" />
+
+
+
+
 
 
 
