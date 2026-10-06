@@ -426,6 +426,10 @@ for unicast traffic.
 
 However, an IPv4 broadcast generated within one network is not forwarded into the other network by default.
 
+## To view my lab on my youtube channel click the following thumnail
+
+[![Router Domain Separation Lab](https://raw.githubusercontent.com/charlesmuriuki152-sketch/NETWORKING/main/Lab-07-Router-Domain-Separation/thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
+
 Therefore:
 
 > **A router separates broadcast domains and does not forward normal IPv4 broadcasts between its interfaces by default.**
