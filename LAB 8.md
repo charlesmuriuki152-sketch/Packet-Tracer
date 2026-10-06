@@ -428,10 +428,7 @@ However, an IPv4 broadcast generated within one network is not forwarded into th
 
 ## To view my lab on my youtube channel click the following thumnail
 
-[![Router Domain Separation Lab](https://raw.githubusercontent.com/charlesmuriuki152-sketch/NETWORKING/main/Lab-07-Router-Domain-Separation/thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
+[![Router Domain Separation Lab](https://img.youtube.com/vi/lqrrxJBPx7U/maxresdefault.jpg)](https://www.youtube.com/watch?v=lqrrxJBPx7U)
 
-Therefore:
-
-> **A router separates broadcast domains and does not forward normal IPv4 broadcasts between its interfaces by default.**
 
 This is one of the fundamental differences between the roles of **switches and routers** in a network.
