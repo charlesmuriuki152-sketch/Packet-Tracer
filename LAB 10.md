@@ -49,9 +49,14 @@ ipconfig /all
 4. Observe how NAT changes the source IP address as traffic passes through the wireless router.
 5. Click **Check Results** when finished.
 
+
 ## Conclusion
 
 This lab demonstrated how a wireless router uses DHCP to assign private IP addresses to PCs and NAT to translate private source addresses into the router's Internet-facing address. Packet Tracer's Simulation mode was used to examine packet headers and observe NAT in action.
+## 📂 Lab File
+
+Download the [Examine NAT on a Wireless Router Instructions.pka](https://github.com/charlesmuriuki152-sketch/Packet-Tracer/blob/main/Examine%20NAT%20on%20a%20Wireless%20Router%20Instructions.pka) file and open it in Cisco Packet Tracer to complete the lab.
+
 ## ## Cisco NAT Lab Tutorial
 
 [![Watch Cisco NAT Lab Tutorial](https://img.youtube.com/vi/DsSRdRdOYmU/0.jpg)](https://www.youtube.com/watch?v=DsSRdRdOYmU)
